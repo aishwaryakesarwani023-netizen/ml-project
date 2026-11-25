@@ -1,2 +1,2 @@
 # ml-project
-this is my email spam detection project model
+this is my spam detection project model
